@@ -1,5 +1,3 @@
-Overview of Social Entrepreneurship
-==========================================================================
 
 Social entrepreneurship is a rapidly growing field that seeks to address complex social and environmental challenges through innovative, market-based solutions. It blends the principles of entrepreneurship with a social or environmental mission to maximize both impact and profitability.
 

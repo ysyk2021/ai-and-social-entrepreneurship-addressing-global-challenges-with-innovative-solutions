@@ -1,5 +1,3 @@
-Ethical Considerations
-======================
 
 The use of artificial intelligence (AI) in social entrepreneurship has the potential to bring about significant positive change. However, it is important to consider the ethical implications of AI and ensure that its use is responsible and aligned with social and environmental values. This chapter explores the ethical considerations associated with the use of AI in social entrepreneurship, identifies best practices for ensuring ethical and responsible use of AI, and discusses future directions and challenges.
 

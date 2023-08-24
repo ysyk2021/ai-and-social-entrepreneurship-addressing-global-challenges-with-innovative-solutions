@@ -1,5 +1,3 @@
-Advantages and Limitations of AI in Social Entrepreneurship
-===============================================================================================================
 
 Artificial intelligence (AI) has the potential to revolutionize social entrepreneurship by providing innovative solutions to complex social and environmental challenges. However, as with any technology, there are both advantages and limitations to using AI in social entrepreneurship. In this chapter, we will explore both the advantages and limitations of AI in social entrepreneurship.
 

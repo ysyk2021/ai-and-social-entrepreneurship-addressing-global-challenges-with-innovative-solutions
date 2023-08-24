@@ -1,5 +1,3 @@
-Future Directions and Challenges
-=================================================================
 
 As AI continues to advance, social entrepreneurs must remain vigilant in their efforts to ensure ethical and responsible use of these technologies. In this chapter, we will discuss future directions and challenges for ethical considerations in AI-based social entrepreneurship.
 

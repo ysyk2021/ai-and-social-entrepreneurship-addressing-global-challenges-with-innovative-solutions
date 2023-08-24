@@ -1,5 +1,3 @@
-Healthcare Access and Equity
-===============================================================================
 
 AI is being used to address healthcare access and equity around the world, providing innovative solutions that increase access to high-quality care. In this chapter, we will explore some of the AI-based solutions being used to address global challenges in healthcare.
 

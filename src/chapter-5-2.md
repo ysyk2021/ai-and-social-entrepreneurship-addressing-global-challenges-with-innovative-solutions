@@ -1,5 +1,3 @@
-Public-Private Partnerships
-======================================================================
 
 Public-private partnerships (PPPs) are collaborations between governments, non-governmental organizations, and the private sector to work towards achieving a common goal. PPPs leverage the strengths of each sector to develop innovative solutions that address complex social and environmental challenges.
 

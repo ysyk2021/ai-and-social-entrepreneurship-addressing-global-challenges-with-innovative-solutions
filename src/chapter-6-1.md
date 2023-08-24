@@ -1,5 +1,3 @@
-Ethical Issues Associated with the Use of AI in Social Entrepreneurship
-===============================================================================================
 
 As we explore the potential of artificial intelligence (AI) to address complex global challenges through social entrepreneurship, it is essential to consider the ethical implications of its use. While AI has the potential to create significant social and environmental impact, it can also raise significant ethical concerns.
 

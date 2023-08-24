@@ -1,5 +1,3 @@
-Cross-Sectoral Collaboration
-=======================================================================
 
 Cross-sectoral collaboration is an essential form of collaboration that brings together different sectors to address common challenges. Cross-sectoral collaboration involves partnerships between public, private, and non-profit organizations for achieving shared goals. Such collaborations harness the strengths, resources, and expertise of each stakeholder to create solutions that are innovative and sustainable.
 

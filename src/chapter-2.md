@@ -1,5 +1,3 @@
-Understanding Social Entrepreneurship
-=====================================
 
 Social entrepreneurship is a rapidly growing field that seeks to address complex social and environmental challenges through innovative, market-based solutions. This chapter will provide an overview of social entrepreneurship, the traditional approaches used in this field, and the limitations and challenges faced by these approaches.
 

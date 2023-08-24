@@ -1,5 +1,3 @@
-Case Studies on the Use of AI in Social Entrepreneurship
-============================================================================================================
 
 Artificial intelligence (AI) is being increasingly used by social entrepreneurs to address global challenges and create meaningful change. In this chapter, we will explore case studies of social entrepreneurs who have successfully leveraged AI to create innovative solutions for social and environmental issues.
 

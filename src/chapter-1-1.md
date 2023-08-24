@@ -1,5 +1,3 @@
-The Need for Social Entrepreneurship and Innovation
-=================================================================
 
 The world is facing a number of complex social and environmental challenges, from poverty and inequality to climate change and environmental degradation. In order to address these challenges, there is a growing need for innovative solutions that can create lasting change. This chapter will provide an overview of the need for social entrepreneurship and innovation in addressing global challenges.
 

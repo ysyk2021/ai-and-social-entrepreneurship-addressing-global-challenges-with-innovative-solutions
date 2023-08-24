@@ -1,5 +1,3 @@
-Artificial Intelligence in Social Entrepreneurship
-==================================================
 
 Artificial intelligence (AI) is becoming an increasingly important tool for social entrepreneurs to address complex social and environmental challenges. This chapter will explore the different types of AI and their applications in social entrepreneurship, as well as the advantages and limitations of using AI in this field.
 

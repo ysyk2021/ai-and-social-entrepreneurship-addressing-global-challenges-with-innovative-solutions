@@ -1,5 +1,3 @@
-Types of Artificial Intelligence and Their Applications in Social Entrepreneurship
-======================================================================================================================================
 
 Artificial intelligence (AI) is a rapidly growing field that has the potential to transform social entrepreneurship and address global challenges. AI technologies can be broadly categorized into three main types: supervised learning, unsupervised learning, and reinforcement learning. In this chapter, we will explore each type of AI and their applications in social entrepreneurship.
 

@@ -1,5 +1,3 @@
-Overview of AI-based Solutions for Global Challenges
-=======================================================================================================
 
 AI has the potential to be a game-changer in social entrepreneurship, offering innovative solutions to some of the world's most pressing challenges. In this chapter, we will provide an overview of some of the AI-based solutions being used to address global challenges.
 

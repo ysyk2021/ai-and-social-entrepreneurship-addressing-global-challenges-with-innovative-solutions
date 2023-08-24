@@ -1,5 +1,3 @@
-Funding and Investment Strategies
-============================================================================
 
 AI has the potential to revolutionize social entrepreneurship and address some of the most pressing global challenges. However, realizing this potential requires significant resources, funding, and collaboration. In this chapter, we will discuss funding and investment strategies for AI in social entrepreneurship.
 

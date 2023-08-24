@@ -1,5 +1,3 @@
-Traditional Approaches to Social Entrepreneurship
-========================================================================================
 
 While social entrepreneurship is a relatively new field, there have been many traditional approaches to addressing social and environmental challenges that have paved the way for this innovative sector. This chapter will provide an overview of some of the most common approaches to social entrepreneurship and the limitations and challenges associated with them.
 

@@ -1,5 +1,3 @@
-Poverty Reduction and Economic Development
-=============================================================================================
 
 AI is being used to address poverty and promote economic development around the world, providing innovative solutions that increase access to capital and job opportunities. In this chapter, we will explore some of the AI-based solutions being used to address global challenges in poverty reduction and economic development.
 

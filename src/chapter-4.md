@@ -1,5 +1,3 @@
-Chapter: AI-based Solutions for Global Challenges
-=================================================
 
 AI has the potential to revolutionize social entrepreneurship, providing innovative solutions to some of the world's most pressing challenges. In this chapter, we will provide an overview of some of the AI-based solutions being used to address global challenges.
 

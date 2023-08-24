@@ -1,5 +1,3 @@
-Disaster Response and Relief
-======================================================================
 
 Natural disasters pose significant challenges to human life, infrastructure, and the environment. Prompt response and relief efforts are essential to save lives and mitigate the impacts of such events. AI-based solutions have the potential to optimize disaster response and relief efforts by providing real-time information and insights for decision-making.
 

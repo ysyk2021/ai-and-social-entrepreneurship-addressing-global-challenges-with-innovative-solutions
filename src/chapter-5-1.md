@@ -1,5 +1,3 @@
-Overview of Collaborative Innovation and Partnerships
-================================================================================================
 
 Collaborative innovation and partnerships are essential in developing innovative solutions for social and environmental challenges that require multi-dimensional approaches. Collaboration between different stakeholders is necessary to tackle global issues in a more sustainable and impactful manner.
 

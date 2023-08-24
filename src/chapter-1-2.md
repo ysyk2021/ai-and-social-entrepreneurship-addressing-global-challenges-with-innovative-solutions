@@ -1,5 +1,3 @@
-Overview of Artificial Intelligence and Its Applications in Social Entrepreneurship
-=================================================================================================
 
 Artificial intelligence (AI) is a rapidly growing field that involves the development of intelligent machines capable of performing tasks that typically require human intelligence, such as speech recognition, problem-solving, and decision-making. While AI has been primarily associated with advancements in the business and technology sectors, it also has significant applications in social entrepreneurship.
 
