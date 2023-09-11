@@ -1,5 +1,4 @@
-Chapter: Public-Private Partnerships
-====================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we delve into the importance of public-private partnerships (PPPs) in the context of AI and social entrepreneurship. By leveraging the strengths and resources of both sectors, PPPs have the potential to drive innovation, achieve sustainable impact, and tackle complex global challenges.
 

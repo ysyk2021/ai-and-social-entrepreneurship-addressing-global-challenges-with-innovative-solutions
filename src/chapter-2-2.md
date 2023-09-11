@@ -1,5 +1,4 @@
-Chapter: Traditional Approaches to Social Entrepreneurship
-==========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the traditional approaches to social entrepreneurship and their relevance in the context of AI and global challenges. While AI presents new opportunities for innovation and impact, it is important to understand the foundations of social entrepreneurship and how they can be integrated with AI-driven solutions.
 

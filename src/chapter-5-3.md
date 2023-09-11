@@ -1,5 +1,4 @@
-Chapter: Cross-Sectoral Collaboration
-=====================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the significance of cross-sectoral collaboration in the context of AI and social entrepreneurship. By bringing together stakeholders from various sectors, we can foster innovation, maximize impact, and address complex global challenges more effectively.
 

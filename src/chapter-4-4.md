@@ -1,5 +1,4 @@
-Chapter: Poverty Reduction and Economic Development
-===================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we examine the role of AI and social entrepreneurship in poverty reduction and economic development. By leveraging AI technologies and entrepreneurial approaches, we can create innovative solutions that address the root causes of poverty and drive sustainable economic growth.
 

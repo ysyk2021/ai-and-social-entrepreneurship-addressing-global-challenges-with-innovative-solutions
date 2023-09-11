@@ -1,5 +1,4 @@
-Chapter: Healthcare Access and Equity
-=====================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we delve into the critical topic of healthcare access and equity in the context of AI and social entrepreneurship. As AI technologies continue to evolve, they hold great potential for addressing healthcare challenges and ensuring that quality healthcare is accessible to all, regardless of geography or socioeconomic status.
 

@@ -1,5 +1,4 @@
-Chapter: Overview of AI-Based Solutions for Global Challenges
-=============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we provide an overview of the various ways in which artificial intelligence (AI) is being utilized to address global challenges in the context of social entrepreneurship. AI-based solutions have the potential to tackle complex problems and drive innovative approaches to create positive social impact worldwide.
 

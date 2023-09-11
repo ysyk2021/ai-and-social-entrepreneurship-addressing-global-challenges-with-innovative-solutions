@@ -1,5 +1,4 @@
-Chapter: Future Directions and Challenges
-=========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the future directions and potential challenges in the field of artificial intelligence (AI) and social entrepreneurship. As AI continues to evolve and social entrepreneurship plays an increasingly significant role in addressing global challenges, it is essential to anticipate upcoming trends and consider the associated challenges.
 

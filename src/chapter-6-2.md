@@ -1,5 +1,4 @@
-Chapter: Best Practices for Ensuring Ethical and Responsible AI in Social Entrepreneurship
-==========================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we discuss the best practices for ensuring ethical and responsible use of artificial intelligence (AI) in social entrepreneurship. As AI continues to play a significant role in addressing global challenges, it is imperative to adopt practices that prioritize ethics, transparency, and social impact.
 

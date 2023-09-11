@@ -1,5 +1,4 @@
-Chapter: Education and Training
-===============================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the significance of education and training in the context of AI and social entrepreneurship. As AI continues to shape various sectors and address global challenges, it is crucial to equip individuals with the necessary knowledge and skills to leverage AI effectively for social impact.
 
